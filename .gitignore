@@ -6,5 +6,5 @@ configuracion_local/
 
 # Ignorar los archivos en bruto de Photoshop y Gimp
 #img/git_logo.xcf
-*.env
+*.env   
 
